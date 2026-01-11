@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[https://markdowns.io/](https://markdowns.io/)
+[markdowns.io](http://markdowns.io)
